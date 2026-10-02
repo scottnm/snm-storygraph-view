@@ -26,10 +26,7 @@ Use `build-safari.ps1 -BuildType RebuildProj`
 
 For local/test builds...
 1. open the `ext-safari/` directory in XCode
-2. build the project for macOS
-3. run the build which should launch a macOS app and install in Safari
-4. NOTE: need to enable running unsigned extensions from the Safari Developer menu
-
-### for deployment/signing upload
-
-signing not yet supported because it requires a $99/yr apple developer license which isn't yet an expense worth paying.
+2. go to the capabilities and signing section
+    - set both the app and extension targets so that they use my personal team and the "apple development" signing certificate.
+3. build the project for macOS
+4. run the build which should launch a macOS app and install in Safari

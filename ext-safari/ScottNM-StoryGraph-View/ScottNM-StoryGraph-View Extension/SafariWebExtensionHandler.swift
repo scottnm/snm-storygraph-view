@@ -2,7 +2,7 @@
 //  SafariWebExtensionHandler.swift
 //  ScottNM-StoryGraph-View Extension
 //
-//  Created by Scott Munro on 10/28/24.
+//  Created by Scott Munro on 10/1/26.
 //
 
 import SafariServices

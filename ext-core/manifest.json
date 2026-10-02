@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": [
-        "*://app.thestorygraph.com"
+        "https://app.thestorygraph.com/"
       ],
       "js": ["snm_story_view.js"],
       "css": ["snm_story_view.css"]

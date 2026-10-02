@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "ScottNM StoryGraph View",
+  "version": "1.0",
+
+  "description": "",
+
+  "icons": {
+    "48": "icons/trumpet-48.png",
+    "96": "icons/trumpet-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://app.thestorygraph.com"
+      ],
+      "js": ["snm_story_view.js"],
+      "css": ["snm_story_view.css"]
+    }
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{49d6426d-50bd-4637-b268-a7a3fdd9362d}"
+    }
+  }
+
+}

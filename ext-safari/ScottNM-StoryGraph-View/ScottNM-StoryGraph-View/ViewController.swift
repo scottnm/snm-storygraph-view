@@ -2,14 +2,14 @@
 //  ViewController.swift
 //  ScottNM-StoryGraph-View
 //
-//  Created by Scott Munro on 10/1/26.
+//  Created by Scott Munro on 10/3/26.
 //
 
 import Cocoa
 import SafariServices
 import WebKit
 
-let extensionBundleIdentifier = "com.yourCompany.ScottNM-StoryGraph-View.Extension"
+let extensionBundleIdentifier = "com.scottnm.ScottNM-StoryGraph-View.Extension"
 
 class ViewController: NSViewController, WKNavigationDelegate, WKScriptMessageHandler {
 

@@ -7,39 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		77A57D4E306F659600EC9F7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A57D4D306F659600EC9F7B /* AppDelegate.swift */; };
-		77A57D52306F659600EC9F7B /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D50306F659600EC9F7B /* Main.html */; };
-		77A57D54306F659600EC9F7B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D53306F659600EC9F7B /* Icon.png */; };
-		77A57D56306F659600EC9F7B /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D55306F659600EC9F7B /* Style.css */; };
-		77A57D58306F659600EC9F7B /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D57306F659600EC9F7B /* Script.js */; };
-		77A57D5A306F659600EC9F7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A57D59306F659600EC9F7B /* ViewController.swift */; };
-		77A57D5D306F659600EC9F7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D5B306F659600EC9F7B /* Main.storyboard */; };
-		77A57D5F306F659800EC9F7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D5E306F659800EC9F7B /* Assets.xcassets */; };
-		77A57D66306F659800EC9F7B /* ScottNM-StoryGraph-View Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 77A57D65306F659800EC9F7B /* ScottNM-StoryGraph-View Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		77A57D6B306F659800EC9F7B /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A57D6A306F659800EC9F7B /* SafariWebExtensionHandler.swift */; };
-		77A57D7B306F659800EC9F7B /* snm_story_view.js in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D77306F659800EC9F7B /* snm_story_view.js */; };
-		77A57D7D306F659800EC9F7B /* icons in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D79306F659800EC9F7B /* icons */; };
-		77A57D7E306F659800EC9F7B /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 77A57D7A306F659800EC9F7B /* manifest.json */; };
+		776C5EB6307189D20057E111 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776C5EB5307189D20057E111 /* AppDelegate.swift */; };
+		776C5EBA307189D20057E111 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EB8307189D20057E111 /* Main.html */; };
+		776C5EBC307189D20057E111 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EBB307189D20057E111 /* Icon.png */; };
+		776C5EBE307189D20057E111 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EBD307189D20057E111 /* Style.css */; };
+		776C5EC0307189D20057E111 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EBF307189D20057E111 /* Script.js */; };
+		776C5EC2307189D20057E111 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776C5EC1307189D20057E111 /* ViewController.swift */; };
+		776C5EC5307189D20057E111 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EC3307189D20057E111 /* Main.storyboard */; };
+		776C5EC7307189D30057E111 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EC6307189D30057E111 /* Assets.xcassets */; };
+		776C5ECE307189D30057E111 /* ScottNM-StoryGraph-View Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 776C5ECD307189D30057E111 /* ScottNM-StoryGraph-View Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		776C5ED3307189D30057E111 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776C5ED2307189D30057E111 /* SafariWebExtensionHandler.swift */; };
+		776C5EE2307189D30057E111 /* snm_story_view.js in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EDF307189D30057E111 /* snm_story_view.js */; };
+		776C5EE3307189D30057E111 /* icons in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EE0307189D30057E111 /* icons */; };
+		776C5EE4307189D30057E111 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 776C5EE1307189D30057E111 /* manifest.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		77A57D67306F659800EC9F7B /* PBXContainerItemProxy */ = {
+		776C5ECF307189D30057E111 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 77A57D42306F659600EC9F7B /* Project object */;
+			containerPortal = 776C5EAA307189D20057E111 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 77A57D64306F659800EC9F7B;
+			remoteGlobalIDString = 776C5ECC307189D30057E111;
 			remoteInfo = "ScottNM-StoryGraph-View Extension";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		77A57D72306F659800EC9F7B /* Embed Foundation Extensions */ = {
+		776C5EDA307189D30057E111 /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				77A57D66306F659800EC9F7B /* ScottNM-StoryGraph-View Extension.appex in Embed Foundation Extensions */,
+				776C5ECE307189D30057E111 /* ScottNM-StoryGraph-View Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -47,33 +47,33 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		77A57D4A306F659600EC9F7B /* ScottNM-StoryGraph-View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ScottNM-StoryGraph-View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		77A57D4D306F659600EC9F7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		77A57D51306F659600EC9F7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/Main.html; sourceTree = "<group>"; };
-		77A57D53306F659600EC9F7B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		77A57D55306F659600EC9F7B /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
-		77A57D57306F659600EC9F7B /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
-		77A57D59306F659600EC9F7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		77A57D5C306F659600EC9F7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		77A57D5E306F659800EC9F7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		77A57D60306F659800EC9F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		77A57D65306F659800EC9F7B /* ScottNM-StoryGraph-View Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "ScottNM-StoryGraph-View Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		77A57D6A306F659800EC9F7B /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
-		77A57D6C306F659800EC9F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		77A57D77306F659800EC9F7B /* snm_story_view.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = snm_story_view.js; path = "../../../ext-core/snm_story_view.js"; sourceTree = "<group>"; };
-		77A57D79306F659800EC9F7B /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = "../../../ext-core/icons"; sourceTree = "<group>"; };
-		77A57D7A306F659800EC9F7B /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../../ext-core/manifest.json"; sourceTree = "<group>"; };
+		776C5EB2307189D20057E111 /* ScottNM-StoryGraph-View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ScottNM-StoryGraph-View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		776C5EB5307189D20057E111 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		776C5EB9307189D20057E111 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/Main.html; sourceTree = "<group>"; };
+		776C5EBB307189D20057E111 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		776C5EBD307189D20057E111 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		776C5EBF307189D20057E111 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
+		776C5EC1307189D20057E111 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		776C5EC4307189D20057E111 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		776C5EC6307189D30057E111 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		776C5EC8307189D30057E111 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		776C5ECD307189D30057E111 /* ScottNM-StoryGraph-View Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "ScottNM-StoryGraph-View Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		776C5ED2307189D30057E111 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
+		776C5ED4307189D30057E111 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		776C5EDF307189D30057E111 /* snm_story_view.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = snm_story_view.js; path = "../../../ext-core/snm_story_view.js"; sourceTree = "<group>"; };
+		776C5EE0307189D30057E111 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = "../../../ext-core/icons"; sourceTree = "<group>"; };
+		776C5EE1307189D30057E111 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../../ext-core/manifest.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		77A57D47306F659600EC9F7B /* Frameworks */ = {
+		776C5EAF307189D20057E111 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77A57D62306F659800EC9F7B /* Frameworks */ = {
+		776C5ECA307189D30057E111 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -83,64 +83,64 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		77A57D41306F659600EC9F7B = {
+		776C5EA9307189D20057E111 = {
 			isa = PBXGroup;
 			children = (
-				77A57D4C306F659600EC9F7B /* ScottNM-StoryGraph-View */,
-				77A57D69306F659800EC9F7B /* ScottNM-StoryGraph-View Extension */,
-				77A57D4B306F659600EC9F7B /* Products */,
+				776C5EB4307189D20057E111 /* ScottNM-StoryGraph-View */,
+				776C5ED1307189D30057E111 /* ScottNM-StoryGraph-View Extension */,
+				776C5EB3307189D20057E111 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		77A57D4B306F659600EC9F7B /* Products */ = {
+		776C5EB3307189D20057E111 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				77A57D4A306F659600EC9F7B /* ScottNM-StoryGraph-View.app */,
-				77A57D65306F659800EC9F7B /* ScottNM-StoryGraph-View Extension.appex */,
+				776C5EB2307189D20057E111 /* ScottNM-StoryGraph-View.app */,
+				776C5ECD307189D30057E111 /* ScottNM-StoryGraph-View Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		77A57D4C306F659600EC9F7B /* ScottNM-StoryGraph-View */ = {
+		776C5EB4307189D20057E111 /* ScottNM-StoryGraph-View */ = {
 			isa = PBXGroup;
 			children = (
-				77A57D4D306F659600EC9F7B /* AppDelegate.swift */,
-				77A57D59306F659600EC9F7B /* ViewController.swift */,
-				77A57D5B306F659600EC9F7B /* Main.storyboard */,
-				77A57D5E306F659800EC9F7B /* Assets.xcassets */,
-				77A57D60306F659800EC9F7B /* Info.plist */,
-				77A57D4F306F659600EC9F7B /* Resources */,
+				776C5EB5307189D20057E111 /* AppDelegate.swift */,
+				776C5EC1307189D20057E111 /* ViewController.swift */,
+				776C5EC3307189D20057E111 /* Main.storyboard */,
+				776C5EC6307189D30057E111 /* Assets.xcassets */,
+				776C5EC8307189D30057E111 /* Info.plist */,
+				776C5EB7307189D20057E111 /* Resources */,
 			);
 			path = "ScottNM-StoryGraph-View";
 			sourceTree = "<group>";
 		};
-		77A57D4F306F659600EC9F7B /* Resources */ = {
+		776C5EB7307189D20057E111 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				77A57D50306F659600EC9F7B /* Main.html */,
-				77A57D53306F659600EC9F7B /* Icon.png */,
-				77A57D55306F659600EC9F7B /* Style.css */,
-				77A57D57306F659600EC9F7B /* Script.js */,
+				776C5EB8307189D20057E111 /* Main.html */,
+				776C5EBB307189D20057E111 /* Icon.png */,
+				776C5EBD307189D20057E111 /* Style.css */,
+				776C5EBF307189D20057E111 /* Script.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		77A57D69306F659800EC9F7B /* ScottNM-StoryGraph-View Extension */ = {
+		776C5ED1307189D30057E111 /* ScottNM-StoryGraph-View Extension */ = {
 			isa = PBXGroup;
 			children = (
-				77A57D76306F659800EC9F7B /* Resources */,
-				77A57D6A306F659800EC9F7B /* SafariWebExtensionHandler.swift */,
-				77A57D6C306F659800EC9F7B /* Info.plist */,
+				776C5EDE307189D30057E111 /* Resources */,
+				776C5ED2307189D30057E111 /* SafariWebExtensionHandler.swift */,
+				776C5ED4307189D30057E111 /* Info.plist */,
 			);
 			path = "ScottNM-StoryGraph-View Extension";
 			sourceTree = "<group>";
 		};
-		77A57D76306F659800EC9F7B /* Resources */ = {
+		776C5EDE307189D30057E111 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				77A57D77306F659800EC9F7B /* snm_story_view.js */,
-				77A57D79306F659800EC9F7B /* icons */,
-				77A57D7A306F659800EC9F7B /* manifest.json */,
+				776C5EDF307189D30057E111 /* snm_story_view.js */,
+				776C5EE0307189D30057E111 /* icons */,
+				776C5EE1307189D30057E111 /* manifest.json */,
 			);
 			name = Resources;
 			path = "ScottNM-StoryGraph-View Extension";
@@ -149,34 +149,34 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		77A57D49306F659600EC9F7B /* ScottNM-StoryGraph-View */ = {
+		776C5EB1307189D20057E111 /* ScottNM-StoryGraph-View */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77A57D73306F659800EC9F7B /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View" */;
+			buildConfigurationList = 776C5EDB307189D30057E111 /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View" */;
 			buildPhases = (
-				77A57D46306F659600EC9F7B /* Sources */,
-				77A57D47306F659600EC9F7B /* Frameworks */,
-				77A57D48306F659600EC9F7B /* Resources */,
-				77A57D72306F659800EC9F7B /* Embed Foundation Extensions */,
+				776C5EAE307189D20057E111 /* Sources */,
+				776C5EAF307189D20057E111 /* Frameworks */,
+				776C5EB0307189D20057E111 /* Resources */,
+				776C5EDA307189D30057E111 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				77A57D68306F659800EC9F7B /* PBXTargetDependency */,
+				776C5ED0307189D30057E111 /* PBXTargetDependency */,
 			);
 			name = "ScottNM-StoryGraph-View";
 			packageProductDependencies = (
 			);
 			productName = "ScottNM-StoryGraph-View";
-			productReference = 77A57D4A306F659600EC9F7B /* ScottNM-StoryGraph-View.app */;
+			productReference = 776C5EB2307189D20057E111 /* ScottNM-StoryGraph-View.app */;
 			productType = "com.apple.product-type.application";
 		};
-		77A57D64306F659800EC9F7B /* ScottNM-StoryGraph-View Extension */ = {
+		776C5ECC307189D30057E111 /* ScottNM-StoryGraph-View Extension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77A57D6F306F659800EC9F7B /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View Extension" */;
+			buildConfigurationList = 776C5ED7307189D30057E111 /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View Extension" */;
 			buildPhases = (
-				77A57D61306F659800EC9F7B /* Sources */,
-				77A57D62306F659800EC9F7B /* Frameworks */,
-				77A57D63306F659800EC9F7B /* Resources */,
+				776C5EC9307189D30057E111 /* Sources */,
+				776C5ECA307189D30057E111 /* Frameworks */,
+				776C5ECB307189D30057E111 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -186,114 +186,114 @@
 			packageProductDependencies = (
 			);
 			productName = "ScottNM-StoryGraph-View Extension";
-			productReference = 77A57D65306F659800EC9F7B /* ScottNM-StoryGraph-View Extension.appex */;
+			productReference = 776C5ECD307189D30057E111 /* ScottNM-StoryGraph-View Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		77A57D42306F659600EC9F7B /* Project object */ = {
+		776C5EAA307189D20057E111 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					77A57D49306F659600EC9F7B = {
+					776C5EB1307189D20057E111 = {
 						CreatedOnToolsVersion = 26.2;
 					};
-					77A57D64306F659800EC9F7B = {
+					776C5ECC307189D30057E111 = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 77A57D45306F659600EC9F7B /* Build configuration list for PBXProject "ScottNM-StoryGraph-View" */;
+			buildConfigurationList = 776C5EAD307189D20057E111 /* Build configuration list for PBXProject "ScottNM-StoryGraph-View" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 77A57D41306F659600EC9F7B;
+			mainGroup = 776C5EA9307189D20057E111;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 77A57D4B306F659600EC9F7B /* Products */;
+			productRefGroup = 776C5EB3307189D20057E111 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				77A57D49306F659600EC9F7B /* ScottNM-StoryGraph-View */,
-				77A57D64306F659800EC9F7B /* ScottNM-StoryGraph-View Extension */,
+				776C5EB1307189D20057E111 /* ScottNM-StoryGraph-View */,
+				776C5ECC307189D30057E111 /* ScottNM-StoryGraph-View Extension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		77A57D48306F659600EC9F7B /* Resources */ = {
+		776C5EB0307189D20057E111 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77A57D54306F659600EC9F7B /* Icon.png in Resources */,
-				77A57D5D306F659600EC9F7B /* Main.storyboard in Resources */,
-				77A57D58306F659600EC9F7B /* Script.js in Resources */,
-				77A57D52306F659600EC9F7B /* Main.html in Resources */,
-				77A57D5F306F659800EC9F7B /* Assets.xcassets in Resources */,
-				77A57D56306F659600EC9F7B /* Style.css in Resources */,
+				776C5EBC307189D20057E111 /* Icon.png in Resources */,
+				776C5EC5307189D20057E111 /* Main.storyboard in Resources */,
+				776C5EC0307189D20057E111 /* Script.js in Resources */,
+				776C5EBA307189D20057E111 /* Main.html in Resources */,
+				776C5EC7307189D30057E111 /* Assets.xcassets in Resources */,
+				776C5EBE307189D20057E111 /* Style.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77A57D63306F659800EC9F7B /* Resources */ = {
+		776C5ECB307189D30057E111 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77A57D7E306F659800EC9F7B /* manifest.json in Resources */,
-				77A57D7D306F659800EC9F7B /* icons in Resources */,
-				77A57D7B306F659800EC9F7B /* snm_story_view.js in Resources */,
+				776C5EE2307189D30057E111 /* snm_story_view.js in Resources */,
+				776C5EE4307189D30057E111 /* manifest.json in Resources */,
+				776C5EE3307189D30057E111 /* icons in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		77A57D46306F659600EC9F7B /* Sources */ = {
+		776C5EAE307189D20057E111 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77A57D5A306F659600EC9F7B /* ViewController.swift in Sources */,
-				77A57D4E306F659600EC9F7B /* AppDelegate.swift in Sources */,
+				776C5EC2307189D20057E111 /* ViewController.swift in Sources */,
+				776C5EB6307189D20057E111 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77A57D61306F659800EC9F7B /* Sources */ = {
+		776C5EC9307189D30057E111 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77A57D6B306F659800EC9F7B /* SafariWebExtensionHandler.swift in Sources */,
+				776C5ED3307189D30057E111 /* SafariWebExtensionHandler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		77A57D68306F659800EC9F7B /* PBXTargetDependency */ = {
+		776C5ED0307189D30057E111 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 77A57D64306F659800EC9F7B /* ScottNM-StoryGraph-View Extension */;
-			targetProxy = 77A57D67306F659800EC9F7B /* PBXContainerItemProxy */;
+			target = 776C5ECC307189D30057E111 /* ScottNM-StoryGraph-View Extension */;
+			targetProxy = 776C5ECF307189D30057E111 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		77A57D50306F659600EC9F7B /* Main.html */ = {
+		776C5EB8307189D20057E111 /* Main.html */ = {
 			isa = PBXVariantGroup;
 			children = (
-				77A57D51306F659600EC9F7B /* Base */,
+				776C5EB9307189D20057E111 /* Base */,
 			);
 			name = Main.html;
 			sourceTree = "<group>";
 		};
-		77A57D5B306F659600EC9F7B /* Main.storyboard */ = {
+		776C5EC3307189D20057E111 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				77A57D5C306F659600EC9F7B /* Base */,
+				776C5EC4307189D20057E111 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -301,7 +301,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		77A57D6D306F659800EC9F7B /* Debug */ = {
+		776C5ED5307189D30057E111 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -364,7 +364,7 @@
 			};
 			name = Debug;
 		};
-		77A57D6E306F659800EC9F7B /* Release */ = {
+		776C5ED6307189D30057E111 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -419,14 +419,11 @@
 			};
 			name = Release;
 		};
-		77A57D70306F659800EC9F7B /* Debug */ = {
+		776C5ED8307189D30057E111 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8N86FV9ARF;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -445,9 +442,8 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.ScottNM-StoryGraph-View.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scottnm.ScottNM-StoryGraph-View.Extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -457,14 +453,11 @@
 			};
 			name = Debug;
 		};
-		77A57D71306F659800EC9F7B /* Release */ = {
+		776C5ED9307189D30057E111 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8N86FV9ARF;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -483,9 +476,8 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.ScottNM-StoryGraph-View.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scottnm.ScottNM-StoryGraph-View.Extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -495,17 +487,14 @@
 			};
 			name = Release;
 		};
-		77A57D74306F659800EC9F7B /* Debug */ = {
+		776C5EDC307189D30057E111 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8N86FV9ARF;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
@@ -527,9 +516,8 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.ScottNM-StoryGraph-View.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scottnm.ScottNM-StoryGraph-View";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -540,17 +528,14 @@
 			};
 			name = Debug;
 		};
-		77A57D75306F659800EC9F7B /* Release */ = {
+		776C5EDD307189D30057E111 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=macosx*]" = 8N86FV9ARF;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
@@ -572,9 +557,8 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.ScottNM-StoryGraph-View.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scottnm.ScottNM-StoryGraph-View";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -588,34 +572,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		77A57D45306F659600EC9F7B /* Build configuration list for PBXProject "ScottNM-StoryGraph-View" */ = {
+		776C5EAD307189D20057E111 /* Build configuration list for PBXProject "ScottNM-StoryGraph-View" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77A57D6D306F659800EC9F7B /* Debug */,
-				77A57D6E306F659800EC9F7B /* Release */,
+				776C5ED5307189D30057E111 /* Debug */,
+				776C5ED6307189D30057E111 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		77A57D6F306F659800EC9F7B /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View Extension" */ = {
+		776C5ED7307189D30057E111 /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View Extension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77A57D70306F659800EC9F7B /* Debug */,
-				77A57D71306F659800EC9F7B /* Release */,
+				776C5ED8307189D30057E111 /* Debug */,
+				776C5ED9307189D30057E111 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		77A57D73306F659800EC9F7B /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View" */ = {
+		776C5EDB307189D30057E111 /* Build configuration list for PBXNativeTarget "ScottNM-StoryGraph-View" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77A57D74306F659800EC9F7B /* Debug */,
-				77A57D75306F659800EC9F7B /* Release */,
+				776C5EDC307189D30057E111 /* Debug */,
+				776C5EDD307189D30057E111 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 77A57D42306F659600EC9F7B /* Project object */;
+	rootObject = 776C5EAA307189D20057E111 /* Project object */;
 }

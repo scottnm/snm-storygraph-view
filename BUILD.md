@@ -1,4 +1,4 @@
-# how to build
+# How to Build
 
 ## Firefox
 

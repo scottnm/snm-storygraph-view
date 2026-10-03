@@ -1,4 +1,0 @@
-/* Max sheet music display larger so its easier to read */
-#sheetmusic-graphic > img {
-    max-width: 100%;
-}
